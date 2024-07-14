@@ -1,1 +1,1 @@
-# OurCodeSmells_CaptureTheFlag_BTSC
+# OurCodeSmells_CTF_BTSC
