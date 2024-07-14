@@ -1,0 +1,4 @@
+IE{!_am_hEre_buDdi_2024}
+
+Explanation:
+Firstly, the file is a linux executable file. So I ran an ubuntu container in Docker. After running the file, it requires a password. I used the objdump command to disassemble the file to get the Assembly code. Then the assembly code converted to C++ code. After analyzing the code, a secretFunction() was found which I simply ran by modifying the code.
