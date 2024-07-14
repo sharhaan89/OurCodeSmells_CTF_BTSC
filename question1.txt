@@ -1,0 +1,4 @@
+IE_CTF{gii111t_Goo1452Ddd_A4Tt_Gi81Tt}
+
+Explanation:
+The .git file had to be uploaded to a respository created but taking care of the branch name. After that take the description of the definately_not_flag.txt and use the atbash decoder. Then convert from base 64 to text.
